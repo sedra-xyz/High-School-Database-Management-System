@@ -1,12 +1,12 @@
-# Deedra High School Database Management System
+#High School Database Management System
 
 A role-based database management system for managing high school academic records, built with Python, MySQL, and Tkinter.
 
-## 📋 Description
+##  Description
 
 Deedra High School DBMS is a comprehensive database application designed to streamline academic administration in high schools. The system provides role-based access control, allowing students, teachers, coordinators, and administrators to interact with academic data according to their permissions. Built with a user-friendly GUI interface, it simplifies tasks like grade management, assignment tracking, exam scheduling, and student enrollment.
 
-## ✨ Features
+##  Features
 
 ### Role-Based Access Control
 - **Students**: View grades, submissions, assignments, and exams
@@ -23,14 +23,14 @@ Deedra High School DBMS is a comprehensive database application designed to stre
 - 🔐 Secure role-based authentication
 - 💾 Real-time database operations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.x**: Core programming language
 - **MySQL/MariaDB**: Database management system
 - **Tkinter**: GUI framework
 - **mysql-connector-python**: Database connectivity
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 deedra-highschool-dbms/
@@ -61,7 +61,7 @@ The system includes the following main tables:
 - **coordinates**: Coordinator assignments
 - **administrates**: Administrator assignments
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ The system includes the following main tables:
    )
    ```
 
-## 💻 Usage
+##  Usage
 
 ### Running the GUI Version
 
@@ -122,7 +122,7 @@ python DeedraHighschool.py
 
 Follow the on-screen prompts to interact with the system.
 
-## 👥 Sample User Roles
+## Sample User Roles
 
 ### Example User IDs
 - **Students**: S001, S002, S003, etc.
@@ -130,7 +130,7 @@ Follow the on-screen prompts to interact with the system.
 - **Coordinators**: C001, C002, C003, etc.
 - **Administrators**: A001, A002, A003, etc.
 
-## 🔒 Security Notes
+## Security Notes
 
 ⚠️ **Important**: The current implementation includes hardcoded database credentials for demonstration purposes. For production use:
 
@@ -140,7 +140,7 @@ Follow the on-screen prompts to interact with the system.
 - Implement proper SQL injection prevention
 - Add input validation and sanitization
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -150,7 +150,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 Future Enhancements
+##  Future Enhancements
 
 - [ ] User authentication with password hashing
 - [ ] PDF report generation
@@ -161,23 +161,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Attendance tracking system
 - [ ] Parent portal access
 
-## 📄 License
+##  License
 
 This project is available for educational purposes. Please add an appropriate license based on your requirements.
 
-## 👨‍💻 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Thanks to all contributors who have helped shape this project
 - Inspired by the need for efficient academic management systems
 - Built as a learning project for database management and GUI development
-
-## 📞 Contact
-
-For questions or support, please open an issue in the GitHub repository.
 
 ---
 
